@@ -1,0 +1,16 @@
+D:\_RADIXAL\EFCRUD\EFCRUD\bin\Debug\EFCRUD.exe.config
+D:\_RADIXAL\EFCRUD\EFCRUD\bin\Debug\EFCRUD.exe
+D:\_RADIXAL\EFCRUD\EFCRUD\bin\Debug\EFCRUD.pdb
+D:\_RADIXAL\EFCRUD\EFCRUD\obj\Debug\EFCRUD.csproj.AssemblyReference.cache
+D:\_RADIXAL\EFCRUD\EFCRUD\obj\Debug\EFCRUD.csproj.SuggestedBindingRedirects.cache
+D:\_RADIXAL\EFCRUD\EFCRUD\obj\Debug\EFCRUD.Form1.resources
+D:\_RADIXAL\EFCRUD\EFCRUD\obj\Debug\EFCRUD.Properties.Resources.resources
+D:\_RADIXAL\EFCRUD\EFCRUD\obj\Debug\EFCRUD.csproj.GenerateResource.cache
+D:\_RADIXAL\EFCRUD\EFCRUD\obj\Debug\EFCRUD.csproj.CoreCompileInputs.cache
+D:\_RADIXAL\EFCRUD\EFCRUD\obj\Debug\EFCRUD.exe
+D:\_RADIXAL\EFCRUD\EFCRUD\obj\Debug\EFCRUD.pdb
+D:\_RADIXAL\EFCRUD\EFCRUD\bin\Debug\EntityFramework.dll
+D:\_RADIXAL\EFCRUD\EFCRUD\bin\Debug\EntityFramework.SqlServer.dll
+D:\_RADIXAL\EFCRUD\EFCRUD\bin\Debug\EntityFramework.xml
+D:\_RADIXAL\EFCRUD\EFCRUD\bin\Debug\EntityFramework.SqlServer.xml
+D:\_RADIXAL\EFCRUD\EFCRUD\obj\Debug\EFCRUD.csproj.CopyComplete
